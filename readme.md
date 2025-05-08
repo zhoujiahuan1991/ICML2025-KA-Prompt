@@ -7,7 +7,7 @@
   </div>
 <div>
 
-  <sup>1</sup>Wangxuan Institute of Computer Technology, Peking University&emsp; <sup>2</sup>School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, Wuhan, China&emsp; <sup>3</sup>Amazon.com, Inc, Bellevue, WA 98004, USA
+  <sup>1</sup>Wangxuan Institute of Computer Technology, Peking University, Beijing, China&emsp; <sup>2</sup>School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, Wuhan, China&emsp; <sup>3</sup>Amazon.com, Inc, Bellevue, WA 98004, USA
 
 </div>
 </div>
