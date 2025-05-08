@@ -1,0 +1,8 @@
+matplotlib
+opencv_python==4.10.0.84
+pandas==2.2.3
+Pillow==11.2.1
+scikit-learn==1.6.1
+timm==0.9.7
+transformers==4.45.2
+typing_extensions==4.13.2
