@@ -1,4 +1,4 @@
-# [ICML] Componential Prompt-Knowledge Alignment for Domain Incremental Learning
+# [ICML2025] Componential Prompt-Knowledge Alignment for Domain Incremental Learning
 
 <div align="center">
 
