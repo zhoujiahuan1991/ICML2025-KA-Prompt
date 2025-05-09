@@ -12,7 +12,8 @@
 </div>
 </div>
 <p align="center">
-  <a href='https://arxiv.org/abs/2505.04575'><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FICML2025-KA-Prompt&label=KA-Prompt&icon=github&color=%233d8bfd"></a>
+  <a href='https://arxiv.org/abs/2503.12866'><img src='https://img.shields.io/badge/Arxiv-2503.12866-A42C25.svg?logo=arXiv'></a>
+  <a href='[https://arxiv.org/abs/2505.04575](https://github.com/zhoujiahuan1991/ICML2025-KA-Prompt)'><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FICML2025-KA-Prompt&label=KA-Prompt&icon=github&color=%233d8bfd"></a>
 </p>
 
 The *official* repository for  [Componential Prompt-Knowledge Alignment for Domain Incremental Learning](https://arxiv.org/abs/2505.04575).
