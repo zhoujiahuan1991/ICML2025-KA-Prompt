@@ -1,5 +1,5 @@
 # [ICML2025] Componential Prompt-Knowledge Alignment for Domain Incremental Learning
-
+![Logo](figs/KA-Prompt.png)
 <div align="center">
 
 <div>
