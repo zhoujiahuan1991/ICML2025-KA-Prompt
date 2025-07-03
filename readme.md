@@ -16,7 +16,7 @@
   <a href='[https://arxiv.org/abs/2505.04575](https://github.com/zhoujiahuan1991/ICML2025-KA-Prompt)'><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FICML2025-KA-Prompt&label=KA-Prompt&icon=github&color=%233d8bfd"></a>
 </p>
 
-The *official* repository for  [Componential Prompt-Knowledge Alignment for Domain Incremental Learning](https://arxiv.org/abs/2505.04575).
+The *official* repository for  [Componential Prompt-Knowledge Alignment for Domain Incremental Learning](https://openreview.net/pdf?id=QWCdBzLOsk).
 
 ![Framework](figs/framework.png)
 
